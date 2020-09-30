@@ -1,3 +1,3 @@
 # Security Policy and contact information
 
-visit the link given to know about our security and contact info https://letsencrypt.org/contact/#security
+visit the link given to know about our security and contact information https://letsencrypt.org/contact/#security
